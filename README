@@ -1,0 +1,5 @@
+Create training data (This may take 5 mins depending on IO speed and CPU) > python3 generate_images.py
+Train the network > python3 train_network.py
+Predict using unseen data > python3 predict.py data/test/<number 1 - 9> (Example python3 predict.py data/test/3)
+
+This could be adpated to take hand drawn numbers converted to monochrome
