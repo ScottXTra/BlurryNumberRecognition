@@ -27,5 +27,5 @@ It may take a few tries to get the training to work.
 Test the model on unseen data 
 
     python3 predict.py data/test/<number 1 - 9>
-    Example python3 predict.py data/test/4
-![enter image description here](https://github.com/ScottXTra/BlurryNumberRecognition/blob/master/prediction_on_unseen_data.png?raw=true)
+    Example python3 predict.py data/test/5
+![enter image description here](https://github.com/ScottXTra/BlurryNumberRecognition/blob/master/predict_5.png?raw=true)
